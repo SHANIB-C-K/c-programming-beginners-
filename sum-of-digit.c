@@ -13,3 +13,13 @@ void main () {
   }
   printf("Sum of digit = %d", sum);
 }
+
+
+/*Output
+
+--------------------
+  Enter the numbers : 12345
+  Sum of digit = 15
+--------------------
+
+*/
